@@ -1,0 +1,45 @@
+body {
+  background-image: url(./assets/bg-mobile.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+
+}
+
+body *{
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+#container {
+  border: 1px solid red;
+   margin-right: auto;
+
+   display: inline-block;
+}
+
+#profile{
+text-align: center;
+}
+
+
+
+#profile img {
+width: 112px;
+margin: auto;
+}
+
+
+#profile img {
+  
+  width: 112px;
+  
+  
+}
+ 
+#profile p {
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+}
+
